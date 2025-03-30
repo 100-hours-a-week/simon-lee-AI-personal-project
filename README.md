@@ -1,5 +1,3 @@
-# simon-lee-AI-personal-project
-
 # 🧠 VGG16 모델 경량화 연구: L1-Norm 기반 필터 Pruning
 
 본 프로젝트는 VGG16 기반 분류 모델에 대해 **필터 수준의 L1-norm 기반 Pruning 기법**을 적용하여  
